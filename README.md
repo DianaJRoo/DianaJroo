@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Diana Jimenez Roo</h1>
-<h3 align="center">Una FullStack Developer interesada en aprender cada día más sobre este mundo de la tecnología.e</h3>
+<h3 align="center">Una FullStack Developer interesada en aprender cada día más sobre este mundo de la tecnología.</h3>
 
 - 🔭 Actualmente estoy trabajando en [LinHub](https://github.com/4GeeksAcademy/LinHub_Final_Project)
 
