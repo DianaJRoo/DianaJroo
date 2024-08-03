@@ -5,9 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **el idioma inglés**
 
-- 👯 Busco en colaborar en **proyectos de back end**
-
-- 💬 Me puedes preguntar sobre **Python**
+- 👯 Busco en colaborar en **proyectos de front end**
 
 - 📫 Contáctame a **dianacjroo@gmail.com**
 
